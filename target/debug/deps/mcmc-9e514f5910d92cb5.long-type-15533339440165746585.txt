@@ -1,0 +1,1 @@
+std::iter::Map<std::ops::Range<usize>, fn() -> lattice::Spin {lattice::Lattice::get_rand_spin}>

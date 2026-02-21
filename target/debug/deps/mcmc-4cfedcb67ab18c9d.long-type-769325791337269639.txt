@@ -1,0 +1,1 @@
+ndarray::ArrayBase<ndarray::OwnedRepr<system_context::Spin>, ndarray::Dim<[usize; 2]>, system_context::Spin>
